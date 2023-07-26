@@ -1,0 +1,18 @@
+﻿{
+    "database": {
+        "host":"bodypower-do-user-13192625-0.b.db.ondigitalocean.com",
+        "user":"doadmin",
+        "password":"AVNS_OB7uf500azUYk4O4dQy",
+        "database":"defaultdb"
+    },
+    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING",
+    "emailFrom": "info@node-mysql-signup-verification-api.com",
+    "smtpOptions": {
+        "host": "[ENTER YOUR OWN SMTP OPTIONS OR CREATE FREE TEST ACCOUNT IN ONE CLICK AT https://ethereal.email/]",
+        "port": 587,
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    }
+}
